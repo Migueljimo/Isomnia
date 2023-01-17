@@ -1,0 +1,30 @@
+_id: req_81b765fd3aa04e5bb69d24eb0160c049
+type: Request
+parentId: fld_438a71bf1b384b1cb73439818ac64021
+modified: 1672508537262
+created: 1668080933424
+url: http://localhost:8000/api/team/create
+name: equipe post
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nameTeam": "Serviços Proba xtx"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNjcyNTA4NTEzLCJleHAiOjE2NzMxMTMzMTMsIm5iZiI6MTY3MjUwODUxMywianRpIjoiblp3ZkxTM29rS1paOHVOVyIsInN1YiI6IjIiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.EvlkS7IdotJTH0LQd-cTPqcQpvEtvMEYF2o1Nxd7u54
+metaSortKey: -1665847886489.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

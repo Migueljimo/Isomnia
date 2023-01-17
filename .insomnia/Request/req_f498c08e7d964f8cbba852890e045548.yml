@@ -1,0 +1,30 @@
+_id: req_f498c08e7d964f8cbba852890e045548
+type: Request
+parentId: fld_438a71bf1b384b1cb73439818ac64021
+modified: 1671500331757
+created: 1666360883322
+url: http://localhost:8000/api/category/create
+name: Categoria create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nome": "ambiente Prueba 1"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNjcxNTAwMjcwLCJleHAiOjE2NzIxMDUwNzAsIm5iZiI6MTY3MTUwMDI3MCwianRpIjoiSFROTGRFV1gybUI2ek5abSIsInN1YiI6IjIiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.0IhzssikJ2yFdWMMUialjO_trQFbt1ikjLioHWbrOA0
+metaSortKey: -1665847886445.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

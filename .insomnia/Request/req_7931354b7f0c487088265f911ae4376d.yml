@@ -1,0 +1,30 @@
+_id: req_7931354b7f0c487088265f911ae4376d
+type: Request
+parentId: fld_438a71bf1b384b1cb73439818ac64021
+modified: 1668863615598
+created: 1666360913436
+url: http://localhost:8000/api/category/6
+name: Categoria edit
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nome": "bebidas"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNjY4ODYzNTg3LCJleHAiOjE2Njk0NjgzODcsIm5iZiI6MTY2ODg2MzU4NywianRpIjoiNDVRVTdqZzl3MXNTT0I2YiIsInN1YiI6IjIiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.IdGWTGH3X77nEQG-b2J8pLVg8w-8Qmd95N9Yx__o6sY
+metaSortKey: -1665847886433
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

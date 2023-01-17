@@ -1,0 +1,32 @@
+_id: req_3d90b97d9cbe4915a0b3b6832df6e550
+type: Request
+parentId: fld_aa8ab36f04f541338858027dbdc4d280
+modified: 1666295137344
+created: 1665071776658
+url: http://localhost:8000/api/emergencias/create
+name: Emergencias create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"idPaciente": 20,
+    	"idGrupo": 5,
+    	"Data_ingreso": "2022-06-1",
+    	"Data_alta": null,
+    	"Data_cancelamento": "2022-07-26"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1665057644093
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

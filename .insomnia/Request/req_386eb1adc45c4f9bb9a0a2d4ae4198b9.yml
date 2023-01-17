@@ -1,0 +1,29 @@
+_id: req_386eb1adc45c4f9bb9a0a2d4ae4198b9
+type: Request
+parentId: fld_fa93cd7138f44f38a5289ac844487f2e
+modified: 1666306852612
+created: 1666306105463
+url: http://localhost:8000/api/cuarentena/edit/5
+name: New Request
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nomeGrupo": "Grupo Z",
+    	"grupoTipo": "Dolor corporal"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1665066791297
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

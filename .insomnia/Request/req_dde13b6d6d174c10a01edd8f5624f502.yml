@@ -1,0 +1,38 @@
+_id: req_dde13b6d6d174c10a01edd8f5624f502
+type: Request
+parentId: fld_438a71bf1b384b1cb73439818ac64021
+modified: 1671628386903
+created: 1664453156450
+url: http://localhost:8000/api/login
+name: Log
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_c5431f49033f4eb88d1cd45435a8d4e6
+      name: email
+      value: luis.sosa@rehagro.edu.br
+      description: ""
+    - id: pair_bdf5277f2eee44d4a08a0996c587a08f
+      name: password
+      value: "12345678"
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: false
+  username: luis.sosa
+  password: ""
+metaSortKey: -1665847886133
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,23 @@
+_id: req_14b6e8bf0d1146dab317576f46336fef
+type: Request
+parentId: fld_438a71bf1b384b1cb73439818ac64021
+modified: 1668192651862
+created: 1667909162163
+url: http://localhost:8000/api/technical_team/27
+name: equipe_tecnico destroy
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNjY3ODMxODQ4LCJleHAiOjE2Njg0MzY2NDgsIm5iZiI6MTY2NzgzMTg0OCwianRpIjoiVFVQcmVDVDBkc3VUM3NjTiIsInN1YiI6IjIiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.nYtoNT3F3Y9uAYEOdNjMhPE9OV_ADYVF440Yd76h61E
+metaSortKey: -1665847886498.625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

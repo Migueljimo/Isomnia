@@ -1,0 +1,21 @@
+_id: req_e6ae1c3a66944037a4d8fa7f173e9484
+type: Request
+parentId: fld_fa93cd7138f44f38a5289ac844487f2e
+modified: 1666303852830
+created: 1666303632685
+url: http://localhost:8000/api/cuarentena/delete/9
+name: Cuarentena delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1665066791372
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,23 @@
+_id: req_265d96d1333747ddbc247385e61da874
+type: Request
+parentId: fld_438a71bf1b384b1cb73439818ac64021
+modified: 1666362618044
+created: 1666360895304
+url: http://localhost:8000/api/category/6
+name: Categoria delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNjY2MzU3NjU3LCJleHAiOjE2NjY5NjI0NTcsIm5iZiI6MTY2NjM1NzY1NywianRpIjoiTkpCMElqb2VnalBiZEp5TiIsInN1YiI6IjIiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.gcasZRcS67NEve1ycfEB0imTxl8xQZBVGxk-qCfR1aU
+metaSortKey: -1665847886383
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

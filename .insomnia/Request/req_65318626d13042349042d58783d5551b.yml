@@ -1,0 +1,21 @@
+_id: req_65318626d13042349042d58783d5551b
+type: Request
+parentId: wrk_d18fcd71801c41eaac09041afedd7974
+modified: 1673914706972
+created: 1673914673652
+url: http://localhost:8000/api/type_os
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1673914673652
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

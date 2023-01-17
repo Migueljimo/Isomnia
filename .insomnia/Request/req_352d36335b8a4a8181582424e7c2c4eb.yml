@@ -1,0 +1,21 @@
+_id: req_352d36335b8a4a8181582424e7c2c4eb
+type: Request
+parentId: fld_aa8ab36f04f541338858027dbdc4d280
+modified: 1665070441256
+created: 1665065701574
+url: http://localhost:8000/api/emergencias/1
+name: Emergencias Show
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1665057644043
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

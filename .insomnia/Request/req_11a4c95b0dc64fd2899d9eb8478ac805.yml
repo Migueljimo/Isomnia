@@ -1,0 +1,23 @@
+_id: req_11a4c95b0dc64fd2899d9eb8478ac805
+type: Request
+parentId: fld_438a71bf1b384b1cb73439818ac64021
+modified: 1672528844314
+created: 1668005359187
+url: http://localhost:8000/api/team
+name: equipe index
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNjcyNTA4NTEzLCJleHAiOjE2NzMxMTMzMTMsIm5iZiI6MTY3MjUwODUxMywianRpIjoiblp3ZkxTM29rS1paOHVOVyIsInN1YiI6IjIiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.EvlkS7IdotJTH0LQd-cTPqcQpvEtvMEYF2o1Nxd7u54
+metaSortKey: -1665847886504.6797
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

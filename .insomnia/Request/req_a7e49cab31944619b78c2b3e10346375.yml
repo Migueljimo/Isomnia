@@ -1,0 +1,32 @@
+_id: req_a7e49cab31944619b78c2b3e10346375
+type: Request
+parentId: fld_1cb5cd8c29f24529b4f54568eb33989e
+modified: 1665152990078
+created: 1664807922945
+url: http://localhost:8000/api/pacientes/create
+name: Paciente Create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    	{
+    		
+    		"nome": "Fill Jhonson",
+    		"marca": "Jhonson",
+    		"dosis": 1
+
+    	}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1664824071718
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

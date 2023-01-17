@@ -1,0 +1,44 @@
+_id: req_ba385df919a246868a9295cf2ccedbc2
+type: Request
+parentId: fld_438a71bf1b384b1cb73439818ac64021
+modified: 1672529214306
+created: 1668080899235
+url: http://localhost:8000/api/team/29
+name: equipe update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    		{
+    			"nameTeam": "CRUZEIROOs",
+    			"technicians": [
+    				{
+    		"tecnico_id": 4,
+    		"supervisor": 1
+    				},
+    								{
+    		"tecnico_id": 8,
+    		"supervisor": 0
+    				}
+    				
+    			]
+    			
+    			
+    		}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_603734716eef4f1aa1efa22761a90232
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNjcyNTA4NTEzLCJleHAiOjE2NzMxMTMzMTMsIm5iZiI6MTY3MjUwODUxMywianRpIjoiblp3ZkxTM29rS1paOHVOVyIsInN1YiI6IjIiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.EvlkS7IdotJTH0LQd-cTPqcQpvEtvMEYF2o1Nxd7u54
+metaSortKey: -1665847886503.3125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

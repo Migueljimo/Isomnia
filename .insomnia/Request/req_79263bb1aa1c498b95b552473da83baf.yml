@@ -1,0 +1,23 @@
+_id: req_79263bb1aa1c498b95b552473da83baf
+type: Request
+parentId: fld_438a71bf1b384b1cb73439818ac64021
+modified: 1666361045601
+created: 1665848294315
+url: http://localhost:8000/api/typeFrequency/1
+name: TypeFrequency show
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNjY1ODQ3OTc1LCJleHAiOjE2NjY0NTI3NzUsIm5iZiI6MTY2NTg0Nzk3NSwianRpIjoiRTdSeUtRYnFxOW9MZ2djayIsInN1YiI6IjIiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.QZDLmf-d_9GeYhYfe6PIYy8a8XACZH0oodFyv56vgbE
+metaSortKey: -1665847886308
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

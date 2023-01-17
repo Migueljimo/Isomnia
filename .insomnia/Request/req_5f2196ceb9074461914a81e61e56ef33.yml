@@ -1,0 +1,28 @@
+_id: req_5f2196ceb9074461914a81e61e56ef33
+type: Request
+parentId: fld_438a71bf1b384b1cb73439818ac64021
+modified: 1671890562601
+created: 1671890510689
+url: http://localhost:8000/api/change_status_regional/12
+name: regional change
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_603734716eef4f1aa1efa22761a90232
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNjcxNjI4Mzg5LCJleHAiOjE2NzIyMzMxODksIm5iZiI6MTY3MTYyODM4OSwianRpIjoid1BNSVp1R0pGeXJYUHdEcCIsInN1YiI6IjIiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.-1_p_8Dcdf96NHRDd9e7hm7zi5T55xq3ztPMwgG2BIA
+metaSortKey: -1665847886499.0156
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

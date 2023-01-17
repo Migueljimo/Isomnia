@@ -1,0 +1,21 @@
+_id: req_b0383ed895dd4900852f15d030b2c3a8
+type: Request
+parentId: fld_fa93cd7138f44f38a5289ac844487f2e
+modified: 1665067559581
+created: 1665066791222
+url: http://localhost:8000/api/cuarentena
+name: Cuarentena all
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1665066791222
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
