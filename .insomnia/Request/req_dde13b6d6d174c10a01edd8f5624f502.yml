@@ -1,7 +1,7 @@
 _id: req_dde13b6d6d174c10a01edd8f5624f502
 type: Request
 parentId: fld_438a71bf1b384b1cb73439818ac64021
-modified: 1671628386903
+modified: 1674568129973
 created: 1664453156450
 url: http://localhost:8000/api/login
 name: Log
@@ -25,7 +25,7 @@ headers:
 authentication:
   type: basic
   useISO88591: false
-  disabled: false
+  disabled: true
   username: luis.sosa
   password: ""
 metaSortKey: -1665847886133
