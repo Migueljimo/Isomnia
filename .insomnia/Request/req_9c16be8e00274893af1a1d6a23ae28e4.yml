@@ -1,0 +1,39 @@
+_id: req_9c16be8e00274893af1a1d6a23ae28e4
+type: Request
+parentId: wrk_d18fcd71801c41eaac09041afedd7974
+modified: 1674846817670
+created: 1674846414843
+url: http://localhost:8000/api/type_os
+name: post type_Os
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nome": "Prueba del",
+    	"familia_id": 1,
+    	"ativo": 1,
+    	"team": [
+    		{
+    			"id": 8,
+    			"equipe_id": 1,
+    			"regional_id": 2
+    		}
+    	]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNjc0NTc1NzYyLCJleHAiOjE2NzUxODA1NjIsIm5iZiI6MTY3NDU3NTc2MiwianRpIjoiaUxsclJ2UUx4YWZGZmxqeSIsInN1YiI6IjIiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.km8F9j2eigTRlvIDRJXoJKABnGHfIMd5pzUE5VelPKs
+metaSortKey: -1674203969643.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
